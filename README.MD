@@ -24,4 +24,4 @@ Efficiency = Collection / Demand
 - Built efficiency heatmap
 - Created zone ranking system
 
-![App Screenshot](assets/Screenshot_2026-04-26_194848.png)
+![App Screenshot](assests/Screenshot_2026-04-26_194848.png)
