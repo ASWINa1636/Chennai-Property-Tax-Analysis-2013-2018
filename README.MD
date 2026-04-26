@@ -23,4 +23,5 @@ Efficiency = Collection / Demand
 - Identified high-risk zones
 - Built efficiency heatmap
 - Created zone ranking system
-![dashboard](assests/Screenshot 2026-04-26 194848.png)
+
+![App Screenshot](assets/Screenshot_2026-04-26_194848.png)
